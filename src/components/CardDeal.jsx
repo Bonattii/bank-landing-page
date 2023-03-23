@@ -1,7 +1,7 @@
 import React from 'react';
 
-function CardDeal() {
+const CardDeal = () => {
   return <div>CardDeal</div>;
-}
+};
 
 export default CardDeal;

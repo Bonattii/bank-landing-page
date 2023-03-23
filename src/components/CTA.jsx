@@ -1,9 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export class CTA extends Component {
-  render() {
-    return <div>CTA</div>;
-  }
-}
+const CTA = () => {
+  return <div>CTA</div>;
+};
 
 export default CTA;
